@@ -41,11 +41,11 @@ The following image shows the web application's appearance and functionality:
 
 ## GitHub repository for Bootcamp Challenge 1
 ---
-[Github Repo](https://github.com/RFox01/--)
+[Github Repo](https://github.com/RFox01/Password-Generator)
 
 ## Depoly website for challenge 1
 ---
-[Password-Generator](https://rfox01.github.io/--/)
+[Password-Generator](https://rfox01.github.io/Password-Generator/)
 
 ## License
 ---
